@@ -1,5 +1,8 @@
 # Plant_Disease_Detection
 Plant diseases are a major source of worry for farmers and the agricultural business. We hope to create a system that can assist in identifying and controlling these diseases more efficiently by leveraging the capabilities of deep learning.
+C-Day Project Presentation:
+https://digitalcommons.kennesaw.edu/cday/2023fall/Graduate_Research/5/
+
 
 We have used the following models:
 
